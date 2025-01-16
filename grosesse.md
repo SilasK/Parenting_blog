@@ -20,45 +20,6 @@ It should really be what we experienced and what we learned through our journey.
 
 # Pregnancy and Birth
 
-## L'accouchement fait mal, pourquoi?
-
-
-Avant de nous poser plus la question nous avons pensé pourquoi pas utiliser la péri-durale.
-En général la médicine n'est pas en faveurs des femmes, pourquoi donc pas utiliser un des  seuls traitements qui aide explicitement les femmes. Les douleurs pendant l'accouchement sont aussi importante d'essayer les soulager cet une bonne chose, n'est pas? 
-
-La comprehension s'est changée quand on a parlé avec une mère qui avait accouché de deux enfants et qui nous a expliqué que avec la péridurale viennent aussi l'utilisation des hormones synthétiques. Pourquoi?
-
-
-<!--
-Personne sait exactement quand un bébé va naître mais quand tout est prêt le bébé commence à taper sur la paroi de l'uterus, qui cré un choc sur ces cellues, comme un choc élécrique qui se transmet de cellule en cellule. 
--->
-
-La douleur, pour tous qu'on aimerait l'éviter, a une fonction clé dans la dynamique de l'accouchement. 
-Les contractions de l'uterus même si il sont involontaire sont quand-même régulé par le corps.
-Et la douleur est un senseur important pour le corps de savoir comment réguler les contractions.
-Si tout va bien, la corps de la mère produit de l'oxitocyne en réaction à la douleur^[Le corps produit aussi des endorphines pour diminuer le douoleurs] - ce qui favorise les contractions.
-Si quelque chose ne va pas, par exemple si le bébé est mal engagé dans le bassin,
-le corps peut le sentir. Il peut essayer de remonter le bébé, par exemple en provoquant des vomissements.
-(Un vomis pendant l'acccouchement est donc un bon signe.)
-
-Si maintenant on arrête la douleur avec la péridurale, on casse la dynamique de l'accouchement. 
-On doit rajouter des hormones synthétiques pour stimuler les contractions.
-On peut les doser plus ou moins et comme ça gérer l'intensité des contractions mais finalement c'est rien à voir avec la dynamique physiologique de l'accouchement.
-
-Une note de côté que je trouve intéressant la bible raconte que même dans une monde idéal, tel que le paradis, les accouchement étaient douloureuses. 
-
-## L'accouchement 
-
-
-
-
-Peut-être même d'essayer de se reposer au début ou quand s'est possible. 
-
-Par exemple ma femme prenait des bains chaudes pour ralentir un peu les contractions.
-Pour la dernière accouchement on a fait plusieurs siestes pendant l'accouchement.
-
-
-
 
 
 ## Notre premier accouchement
@@ -148,6 +109,33 @@ elle m'a juste refusé...
 
 
 
+## L'accouchement fait mal, pourquoi?
+
+
+Avant de nous poser plus la question nous avons pensé pourquoi pas utiliser la péri-durale.
+En général la médicine n'est pas en faveurs des femmes, pourquoi donc pas utiliser un des  seuls traitements qui aide explicitement les femmes. Les douleurs pendant l'accouchement sont aussi importante d'essayer les soulager cet une bonne chose, n'est pas? 
+
+La comprehension s'est changée quand on a parlé avec une mère qui avait accouché de deux enfants et qui nous a expliqué que avec la péridurale viennent aussi l'utilisation des hormones synthétiques. Pourquoi?
+
+
+<!--
+Personne sait exactement quand un bébé va naître mais quand tout est prêt le bébé commence à taper sur la paroi de l'uterus, qui cré un choc sur ces cellues, comme un choc élécrique qui se transmet de cellule en cellule. 
+-->
+
+La douleur, pour tous qu'on aimerait l'éviter, a une fonction clé dans la dynamique de l'accouchement. 
+Les contractions de l'uterus même si il sont involontaire sont quand-même régulé par le corps.
+Et la douleur est un senseur important pour le corps de savoir comment réguler les contractions.
+Si tout va bien, la corps de la mère produit de l'oxitocyne en réaction à la douleur^[Le corps produit aussi des endorphines pour diminuer le douoleurs] - ce qui favorise les contractions.
+Si quelque chose ne va pas, par exemple si le bébé est mal engagé dans le bassin,
+le corps peut le sentir. Il peut essayer de remonter le bébé, par exemple en provoquant des vomissements.
+(Un vomis pendant l'acccouchement est donc un bon signe.)
+
+Si maintenant on arrête la douleur avec la péridurale, on casse la dynamique de l'accouchement. 
+On doit rajouter des hormones synthétiques pour stimuler les contractions.
+On peut les doser plus ou moins et comme ça gérer l'intensité des contractions mais finalement c'est rien à voir avec la dynamique physiologique de l'accouchement.
+
+Une note de côté que je trouve intéressant la bible raconte que même dans une monde idéal, tel que le paradis, les accouchement étaient douloureuses. 
+
 
 
 
@@ -155,6 +143,7 @@ elle m'a juste refusé...
 ## Accouchement Hopital ou sage femme 
 
 Ok, sachant qu'on veut faire un accouchement physiologique sans période urale, on a vraiment voulu chercher le soutien pour ce projet.
+
 Et puis on a entendu que vraiment demander une sache comme indépendance peut être bénéfique.
 Je ne veux vraiment rien dire de mal des hôpitaux, encore moins de l'hôpital que nous on a pu visiter à Aigle.
 Mais j'ai l'impression qu'on m'a vécu aussi, pour la troisième fois on a vécu l'accouchement à l'hôpital.
