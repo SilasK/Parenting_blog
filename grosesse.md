@@ -20,11 +20,9 @@ It should really be what we experienced and what we learned through our journey.
 
 # Pregnancy and Birth
 
-
-
 ## Notre premier accouchement
 
-<!-- Some more introductiin-->
+<!-- Some more introduction-->
 
 Un soir d'un weekend prolongé, on vient de faire des courses supplémentaires
 ^[Je ne pas si ma femme savait intuitivement que le bébé va naître,
@@ -60,7 +58,7 @@ Je ne sais pas si c'est tout les première naissances durent aussi longtemps, ma
 et il semblait avoir pas de progrès. 
 
 Ma femme voulait prendre un bain chaude pour ralentir les contractions pour mieux se reposer.
-Sauf que les contractions ne s’arrêtaient pas pour longtemps.
+Sauf que les contractions ne s'arrêtaient pas pour longtemps.
 Je me rappelle encore: Je la tenait la tête assise dans le baignoire, comme ça elle pouvait somnoler entre chaque contraction. 
 
 Le pire, ma femme n'arrivait presque rien à manger. Le repas de midi elle à vomit, le snacks ne passaient pas non plus.
@@ -70,9 +68,9 @@ Donc ma femme a couru un marathon sans manger grand chose!
 -- De l'énergie facilement ingérable.)
 
 On a pas prévu un accouchement à la maison, mais au final on a fait presque la moitié de l'accouchement à la maison. 
-Et avec tout les coussins, matelas au salon et tout la nourriture et boissons que ma femme essayait de consommer pendant l'accouchement j'était bien content de pouvoir demander à ma belle-mère si il ne vouait pas revenir le jour après l’accouchent pour voir le bébé et nous aider à faire le menage. 
+Et avec tout les coussins, matelas au salon et tout la nourriture et boissons que ma femme essayait de consommer pendant l'accouchement j'était bien content de pouvoir demander à ma belle-mère si il ne vouait pas revenir le jour après l'accouchent pour voir le bébé et nous aider à faire le menage. 
 
-
+<!--
 on a aussi appris pour la deuxième accouchement d'essayer de faire différentes positions de...
 
 bord de l'océan qui sont vraiment énormes qui pourraient nous...
@@ -108,8 +106,8 @@ mais je m'ai aussi souvent pris des râteaux...
 elle m'a juste refusé...
 
 
-
-## L'accouchement fait mal, pourquoi?
+-->
+## péridurale ou pas?
 
 
 Avant de nous poser plus la question nous avons pensé pourquoi pas utiliser la péri-durale.
@@ -142,12 +140,17 @@ Une note de côté que je trouve intéressant la bible raconte que même dans un
 
 ## Accouchement Hopital ou sage femme 
 
-Ok, sachant qu'on veut faire un accouchement physiologique sans période urale, on a vraiment voulu chercher le soutien pour ce projet.
+Après, qu'on a dicidé de ne pas utiliser la péridurale, on a vraiment voulu chercher le soutien pour ce projet.
 
 Et puis on a entendu que vraiment demander une sache comme indépendance peut être bénéfique.
+
+
 Je ne veux vraiment rien dire de mal des hôpitaux, encore moins de l'hôpital que nous on a pu visiter à Aigle.
+
+
 Mais j'ai l'impression qu'on m'a vécu aussi, pour la troisième fois on a vécu l'accouchement à l'hôpital.
 Il y a quand même quelques différences qui nous ont l'impression que ça simplifie l'accouchement.
+
 Donc nous on avait vraiment la chance d'avoir une super sage femme qui était avec nous pour la préparation, qui nous expliquait qu'avant l'accouchement, qui était là, pendant l'accouchement, qui est vraiment attendée pendant les deux semaines avant et après le terme, qui était prête à venir à chaque heure, à n'importe quelle heure.
 Oui, du coup elle a aussi pu venir, qui était en même conduite, maison de naissance.
 Et puis qui était aussi là évidemment après l'accouchement pour toutes les contrôles après.
