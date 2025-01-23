@@ -2,9 +2,10 @@
 
 <!-- Some more introduction-->
 
-Un soir d'un weekend prolongé, on vient de faire des courses supplémentaires
-^[Je ne pas si ma femme savait intuitivement que le bébé va naître,
-ou le fait que tout était prêt la permettait de relâcher et au contraction se mettre en route. ],
+Un soir d'un weekend prolongé, on vient de faire des courses supplémentaires^[
+    Je ne pas si ma femme savait intuitivement que le bébé va naître,
+    ou le fait que tout était prêt la permettait de relâcher et au contraction se mettre en route. 
+],
 les contractions commencent à se mettre en route.
 On compte l'interval qui était déjà tout les 5 minutes. 
 "C'est déjà très régulier!", je pensais, "Est-ce que le bébé va bientôt venir?" 
@@ -13,8 +14,9 @@ On compte l'interval qui était déjà tout les 5 minutes.
 Je pensais pour bien se préparer à l'accouchement je devrais tout savoir sur les étapes de l'accouchement,
 ce qui se pass quand, et puis il faut reconnaître la fréquence des contractions.
 Au final c'est pas si important. 
-Oui, il y a trois étapes different de l'accouchement
-^[Dilatation du col, descente du bébé dans le vagin, puis délivrance du placenta]
+Oui, il y a trois étapes different de l'accouchement^[
+    Dilatation du col, descente du bébé dans le vagin, puis délivrance du placenta
+    ],
 mais au final on passe le plus de temps dans la première étape. 
 Mieux vaut donc se dire que ça va durer longtemps et se préparer pour un marathon. 
 
@@ -23,8 +25,8 @@ Ce qui a  très bien marché jusqu'à deux heure du matin.
 C'est quand les contractions commençaient a être trop intense pour ma femme.
 
 
-Elle s'est mit souvent toujours dans une position de quatre pâtes et faisait des sons graves
-^[Les sons graves peuvent vraiment aider pendant l'accouchement, même si on pert la voix pour quelque jours en suite.],
+Elle s'est mit souvent toujours dans une position de quatre pâtes et faisait des sons graves^[Les sons graves peuvent vraiment aider pendant l'accouchement, même si on pert la voix pour quelque jours en suite.
+],
 comme ça les douleurs sont le plus supportable, elle m'expliquait.
 Elle a trouvé que les contractions font mal, très mal, mais la douleur ne devient pas insupportable même si l'intensité des contractions augmente fortement pendant l'accouchement. 
 
