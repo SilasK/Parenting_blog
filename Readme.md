@@ -1,4 +1,4 @@
-# Our paternity blog
+# Milena & Silas paternity blog
 
 
 
@@ -21,6 +21,17 @@ And we hope it might be useful.
 2. [Our first birth (Part 1)](en/first_birth.md)
 
 ## French
+
+Je voulais écrire ce blog avec ma femme à propos de notre expérience en tant que parents, en commençant par la grossesse.
+Avec maintenant trois enfants, nous avons acquis une certaine expérience que je voulais partager avec vous.
+
+Personnellement, j'aime lire les blogs des autres et découvrir leurs expériences.
+Mais je sais aussi que la grossesse et la parentalité sont des sujets assez délicats.
+Et une affirmation du type "Nous l'avons fait ainsi" peut facilement être interprétée comme "C'est la bonne façon de faire" ou même "Vous êtes un mauvais parent si vous ne le faites pas comme ça".
+D'où cet avertissement.
+Ce blog se veut vraiment le reflet de ce que nous avons vécu et de ce que nous avons appris tout au long de notre parcours.
+Et nous espérons que cela pourra être utile.
+
 
 1. [Pourquoi on est fan de la naissance physiologique](fr/naissance_physiologique.md)
 2. [Notre première accouchement](fr/premiere_accouchement.md)
