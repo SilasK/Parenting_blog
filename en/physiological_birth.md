@@ -19,8 +19,7 @@ Pain, although we would like to avoid it, has a key function in the dynamics of 
 The uterine contractions, even if involuntary, are still regulated by the body.
 And pain is an important sensor for the body to know how to regulate contractions.
 
-If all goes well, the mother's body produces oxytocin in response to pain^[
-    The body also produces endorphins to reduce pain] - which promotes contractions.
+If all goes well, the mother's body produces oxytocin in response to pain^[The body also produces endorphins to reduce pain] - which promotes contractions.
 If something goes wrong, for example if the baby is poorly engaged in the pelvis,
 the body can feel it.
 It can try to move the baby back up, for instance by inducing vomiting^[
@@ -40,8 +39,7 @@ After deciding to have a birth without epidural,
 we really wanted to seek support that could encourage us in this direction.
 That's why we wanted to give birth in a birth center.
 At the time, the house or rather the birth room was in a hospital,
-which reassured us for the worst case scenario^[
-    Since we would have to go to the hospital emergency anyway in case of complications, I'm not sure if it's really faster if the birth center is in the hospital or just, as is often the case, next to the hospital.
+which reassured us for the worst case scenario^[Since we would have to go to the hospital emergency anyway in case of complications, I'm not sure if it's really faster if the birth center is in the hospital or just, as is often the case, next to the hospital.
 ].
 
 We were almost too late to register at the birth center, but we were lucky to find a great midwife^[

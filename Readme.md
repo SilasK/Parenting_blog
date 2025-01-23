@@ -1,10 +1,10 @@
-# Milena & Silas paternity blog
+# Our parenting blog
 
 
 
 ## English
 
-I wanted to write this blog together with my wife about our experience as parents starting with pregnancy. 
+I wanted to write this blog together with my wife about our experience as parents starting with pregnancy (other blogs will follow). 
 With now three children we have something of experience which, which I wanted to share with you.
 
 Personally I like reading blogs from others and reading about their experience.
@@ -20,7 +20,7 @@ And we hope it might be useful.
 1. [Why we like physiological birth](en/physiological_birth.md)
 2. [Our first birth (Part 1)](en/first_birth.md)
 
-## French
+## Français
 
 Je voulais écrire ce blog avec ma femme à propos de notre expérience en tant que parents, en commençant par la grossesse.
 Avec maintenant trois enfants, nous avons acquis une certaine expérience que je voulais partager avec vous.
