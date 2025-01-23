@@ -17,7 +17,10 @@ And we hope it might be useful.
 
 
 
-1. [Disclaimer](disclaimer.md)
+1. [Why we like physiological birth](en/physiological_birth.md)
+2. [Our first birth (Part 1)](en/first_birth.md)
 
 ## French
 
+1. [Pourquoi on est fan de la naissance physiologique](fr/naissance_physiologique.md)
+2. [Notre première accouchement](fr/premiere_accouchement.md)
