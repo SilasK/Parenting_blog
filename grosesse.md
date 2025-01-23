@@ -15,9 +15,6 @@ It should really be what we experienced and what we learned through our journey.
 
 
 
-
-
-
 # Pregnancy and Birth
 
 ## Notre premier accouchement
@@ -107,122 +104,138 @@ elle m'a juste refusé...
 
 
 -->
-## péridurale ou pas?
 
+## Accouchement physiologique
 
-Avant de nous poser plus la question nous avons pensé pourquoi pas utiliser la péri-durale.
-En général la médicine n'est pas en faveurs des femmes, pourquoi donc pas utiliser un des  seuls traitements qui aide explicitement les femmes. Les douleurs pendant l'accouchement sont aussi importante d'essayer les soulager cet une bonne chose, n'est pas? 
+Ma femme et moi sommes des convaincus de l'accouchement physiologique, c'est à dire un accouchement sans césarienne, sans hormones synthétiques, et sans péridurale.
+Évidemment il y a des cas ou des interventions, sont nécessaire et salvatrice.
+Merci à Dieu pour la médecine moderne!
+Mais le plus souvent, l'accouchement est un processus naturel qui ne nécessite pas d'intervention.
 
-La comprehension s'est changée quand on a parlé avec une mère qui avait accouché de deux enfants et qui nous a expliqué que avec la péridurale viennent aussi l'utilisation des hormones synthétiques. Pourquoi?
 
 
 <!--
-Personne sait exactement quand un bébé va naître mais quand tout est prêt le bébé commence à taper sur la paroi de l'uterus, qui cré un choc sur ces cellues, comme un choc élécrique qui se transmet de cellule en cellule. 
+
+Il y a aussi des accouchements plus compliqués comme avec des jumeaux ou quand le bébé est en siège.
+ une accouchement physiologique est possible.
+
+-->
+
+<!--
+Dieu à fait le corps de la femme pour accoucher.
+
+
+On attend avec impaciance une étude qui compare les accouchement dans les hopitaux avec les accouchement dans les maisons de naissance en Suisse romande.
+
+
+Une étude qui compare les naissances effectuées dans des maisons de naissance en suisse-romande, avec des accouchements effectués dans les hopitaux en matchant les type de femmes. 
+
+-->
+
+
+### Pour quoi pas la péridurale?
+
+Avant de nous poser plus la question nous avons pensé pourquoi pas utiliser la péri-durale.
+En général la médecine n'est pas en faveurs des femmes, pourquoi donc pas utiliser un des  seuls traitements qui aide explicitement les femmes. Les douleurs pendant l'accouchement sont aussi importante d'essayer les soulager cet une bonne chose, n'est pas? 
+
+La compréhension s'est changée quand on a parlé avec une mère qui avait accouché de deux enfants et qui nous a expliqué que avec la péridurale viennent aussi l'utilisation des hormones synthétiques. Pourquoi?
+
+
+<!--
+Personne sait exactement quand un bébé va naître mais quand tout est prêt le bébé commence à taper sur la paroi de l'uterus, qui cré un choc sur ces cellues, comme un choc électrique qui se transmet de cellule en cellule. 
 -->
 
 La douleur, pour tous qu'on aimerait l'éviter, a une fonction clé dans la dynamique de l'accouchement. 
 Les contractions de l'uterus même si il sont involontaire sont quand-même régulé par le corps.
 Et la douleur est un senseur important pour le corps de savoir comment réguler les contractions.
-Si tout va bien, la corps de la mère produit de l'oxitocyne en réaction à la douleur^[Le corps produit aussi des endorphines pour diminuer le douoleurs] - ce qui favorise les contractions.
-Si quelque chose ne va pas, par exemple si le bébé est mal engagé dans le bassin,
-le corps peut le sentir. Il peut essayer de remonter le bébé, par exemple en provoquant des vomissements.
-(Un vomis pendant l'acccouchement est donc un bon signe.)
 
-Si maintenant on arrête la douleur avec la péridurale, on casse la dynamique de l'accouchement. 
+<!-- Read more about -->
+Si tout va bien, la corps de la mère produit de l'ocytocine en réaction à la douleur^[Le corps produit aussi des endorphines pour diminuer le douleurs] - ce qui favorise les contractions.
+Si quelque chose ne va pas, par exemple si le bébé est mal engagé dans le bassin,
+le corps peut le sentir. Il peut essayer de remonter le bébé, par exemple en provoquant des vomissements^[Un vomis pendant l'accouchement est donc un bon signe!].
+
+Si maintenant on arrête la douleur avec la péridurale,
+on casse la dynamique de l'accouchement. 
 On doit rajouter des hormones synthétiques pour stimuler les contractions.
 On peut les doser plus ou moins et comme ça gérer l'intensité des contractions mais finalement c'est rien à voir avec la dynamique physiologique de l'accouchement.
+<!--
+Par ailleurs, je trouve intéressant que, selon la Bible, même dans un monde parfait comme le paradis, l'accouchement était déjà décrit comme une expérience douloureuse.
+-->
 
-Une note de côté que je trouve intéressant la bible raconte que même dans une monde idéal, tel que le paradis, les accouchement étaient douloureuses. 
+### Accouchement hôpital ou sage femme  
+
+Après, qu'on a décidé de faire un accouchement sans péridurale,
+on a vraiment voulu chercher le soutien qui peut nous encourage dans ce sens-là.
+C'est pour ça qu'on a voulu faire l'accouchement dans une maison de naissance.
+
+A l'époque, la maison ou plutôt la chambre de naissance était dans un hôpital.
+Ce qui nous a rassuré pour le pire des cas^[
+    Comme de tout façon on devrait s'annoncer aux urgences de l'hôpital au cas d'une complication, je ne sais pas si c'est vraiment plus rapide si la maison de naissance est dans l'hôpital ou seulement, comme c'est souvent le cas, à côté de l'hôpital.
+].
+On était déjà presque trop tard pour s'inscrire dans la maison de naissance, mais on a eu la chance de trouver une sage super femme^[
+    Pour ceux qui habite dans notre région.
+    Elle va bientôt ouvrir une maison de naissance à Corsier.
+]. 
+Elle était avec nous avant l'accouchement, pendant l'accouchement, et après l'accouchement. 
+Ce qui crée un lien assez spécial.
+Une dame qui était instrumental à des moment clé de notre vie de famille. 
+
+Elle était déjà pas mal expérimentée: Elle avait des enfants elle-même et elle a travaillé pendant plusieurs années à l'hôpital. 
+Ceci n'était pas seulement une avantage, elle nous a avoué, parce-que quand elle a commencé à faire des accouchement dans les maisons de naissance elle a du désapprendre plusieurs mécanismes
+ pour aller vraiment au rythme de la mère et du bébé.
+
+Les protocoles à l'hôpital sont implémenté que un médecin qui n'a pas vu la mère peut prendre une décision informé quand à la maison de naissance le sage-femme et dans le même salle pendant tout l'accouchement.
+Elle sait comment la mère vas et est attentive au première signe de complication.
+A l'hôpital, on se prépare pour tout les complications qui peuvent arriver.
+Mais dans le maison de naissance on croie en la mère. On croie que son corps sait le mieux comment se positionner etc.
+
+Les sages sage-femmes de la maison de naissance qu'on a choisi étaient prête à venir à chaque jour, à n'importe quelle heure, pendant la période du term.
+Notre sage-femme nous a même année au voiture à la maison de naissance.
+
+Je comprends qu'il n'y a pas forcément la même possibilité dans tout les endroits.
+Dès fois, ce une groupe de sage-femmes qui se partagent les accouchements dans la maison de naissance.
+Donc on sait un peut quelle genre de sage-femmes on pourrait accoucher, même si on ne sait pas exactement sur qui on va tomber.
+En tout-cas, je trouve ça fait une grande différence, si on connais la sage-femme qui va nous accompagner pendant l'accouchement. 
+Pour notre troisième enfant on a fait l'accouchement à l'hôpital ou les sages-femmes de garde essayait de faire notre connaissance pendant les premières contractions -- pas le meilleur moment pour du small-talk.  
+
+Je pense c'est  important de trouver une sage femme qui nous met en confiance et avec 
+laquelle on est sur la même longueur d'onde. Il y en a de tout sortes.
 
 
 
 
 
-## Accouchement Hopital ou sage femme 
+<!-- 
+## 3ème accouchment à l'hopital 
+Pour notre troisième enfant on est allé faire l'accouchement à l'hôpital, car notre sage femme avait quitté la maison de naissance et qu'on était pas convaincu de faire l'accouchement à la maison.
 
-Après, qu'on a dicidé de ne pas utiliser la péridurale, on a vraiment voulu chercher le soutien pour ce projet.
+Pas le même comprehension de naissance physiologique. 
 
-Et puis on a entendu que vraiment demander une sache comme indépendance peut être bénéfique.
+Iterrogatoire, pas pu visiter les salles. 
+
+oxytocin synthetique
 
 
-Je ne veux vraiment rien dire de mal des hôpitaux, encore moins de l'hôpital que nous on a pu visiter à Aigle.
+s sont sous la responsabilité d'un médecin, ils sont toujours un peu inquiets, ouais, inquiets ou vraiment attentifs de tout faire juste.
+
+
+Même si les hôpitaux dans notre région sont très bien et ont un taux de césarienne le plus bas de la Suisse
+ bien équipé pour les accouchements physiologiques,
+
+
 
 
 Mais j'ai l'impression qu'on m'a vécu aussi, pour la troisième fois on a vécu l'accouchement à l'hôpital.
+
 Il y a quand même quelques différences qui nous ont l'impression que ça simplifie l'accouchement.
 
-Donc nous on avait vraiment la chance d'avoir une super sage femme qui était avec nous pour la préparation, qui nous expliquait qu'avant l'accouchement, qui était là, pendant l'accouchement, qui est vraiment attendée pendant les deux semaines avant et après le terme, qui était prête à venir à chaque heure, à n'importe quelle heure.
-Oui, du coup elle a aussi pu venir, qui était en même conduite, maison de naissance.
-Et puis qui était aussi là évidemment après l'accouchement pour toutes les contrôles après.
-Ce qui crée un lien assez spécial, assez fou quelque part, une dame qui était vraiment là à des moments super profonds et importants pour notre vie de couple.
-qui était vraiment là.
-Et ça pour presque nos trois enfants.
-Je comprends qu'il n'y a pas forcément la possibilité, ça dans chaque endroit, chaque ville, d'avoir des sages-femmes qui sont prêts à ça, c'est une communauté qui fait ça dans la maison de naissance.
-Du coup on sait qu'on est parmi les huit sages-femmes qui sont dans cet endroit.
-Mais pour nous, ça vraiment...
-Et puis il y a aussi le fait que certains qui...
-Oui, qui...
-Qui sont sages-femmes indépendants, mais qui n'en vraiment pas du tout, elles ont la même longueur d'onde, qui ne sont pas aussi, je dirais, scientifiques que nous on pense.
-Je pense qu'il y en a de toutes sortes.
-Mais pour nous, on est vraiment bien tombés, et puis on est vraiment très contents.
-C'est vraiment aussi des sages-femmes qui ont vécu majoritairement des accouchements qui se passent bien, qui sont physiologiques, du coup ils n'ont pas peur.
-Ils sont beaucoup plus...
-Ouais.
-En tout cas, notre cas, c'est vraiment une dame expérimentée, qui a elle-même des enfants.
-Et voilà.
-Et tout ça, c'est vraiment un truc que nous...
-On est vraiment à ma femme, qu'on est vraiment à la tour à encourager ça.
-On cherche une sage-femme assez tôt, finalement.
-Parce qu'ils doivent se planifier, ils sont assez pris, il n'y a pas énormément de place.
-Voilà.
-Ça ne veut pas dire qu'il ne faut pas continuer à avoir son généal écoque, mais je pense qu'à un moment donné, il y a quelques cours de préparation que souvent, ce n'est pas le généal écoque qu'il fait.
-En tout cas, pas celle de ma femme.
-Et puis, il y a quelques inputs de la sage-femme qui sont clairement utiles.
-En tout cas, notre sage-femme, elle ouvre une maison de...
-naissance incursée.
-Ok, donc qu'est-ce qui change dans notre expérience comparée à l'hôpital avec une sage-femme ? Je pense pratiquement que tu fais les connaissances déjà avant.
-Je trouve que c'est assez intéressant.
-Il est rigolo.
-Il est presque qu'en arrivant à l'hôpital pour le troisième enfant, pour le troisième accouchement, finalement, les dames, elles nous ont parlé, elles voulaient faire connaissance finalement de ce moment-là, de demander comment on va, qu'est-ce qu'on a vécu et tout.
-Mais pendant, ma femme était en train de contraction, donc c'est vraiment...
-Oui, d'un côté, c'est sympa, mais de l'autre côté, c'est vraiment pas le moment de faire connaissance.
-Et puis, avec une sage-femme que tu connaissais avant, peut-être même une groupe de sage-femmes, tu as ces processus avant, tu fais connaissance avant, tu sais qui sont...
-Tu as déjà échangé, et puis tu connais pas mal une partie de la vie qui t'a été prêt pour le moment de l'accouchement, de se concentrer là-dessus.
-Je dis justement les sage-femmes indépendantes.
-On va dire, j'attends une étude qui montre vraiment clairement que les sages...
-Les accouchements qui se font dans la maison naissance, on va dire, que par les sage-femmes indépendantes sont rénalement mieux.
-Il y a moins de...
-Moins de...
-Complications, moins de péridurale, moins de...
-J'ai l'impression aussi, moins de mort, même si dans un très très petit cas, ça peut arriver.
-Et puis évidemment, c'est aussi si on détecte des complications.
-Pendant l'accouchement...
-Bah du coup, c'est pas eux qui peuvent le prendre, et puis ils font le mot dans l'hôpital, mais dans une marge de déclare, où tout est bien, on peut vraiment faire un accouchement physiologique.
-C'est mieux de...
-Voilà, qu'est-ce que ça veut dire ? D'aller chez des sage-femmes indépendants et puis ils vont essayer une naissance physiologique.
-J'ai aussi l'impression que des fois, voilà, on a dit à l'hôpital, on a fait un plan de naissance, on a vraiment expliqué pendant une heure qu'est-ce qu'on veut, qu'on veut vraiment cette...
-Naissance physiologique, finalement, un peu comme avant.
-Mais simplement, la compression derrière, elle est pas la même.
-Dans l'hôpital, on utilise un peu tout le temps aussi l'hormone synthétique de l'oxytocine, pour soit dit donc faire une dernière contraction.
-Donc finalement, même si on parle des sage-femmes et des médecins de...
-On parle les deux de...
-L'accouchement physiologique, la compression derrière c'est pas la même.
-Et puis les infirmières, les sage-femmes de l'hôpital, ils ont vécu de toutes sortes d'accouchements, et ceux qui sont bien passés, ceux qui sont très compliquements.
-Aussi parce que quelque part, ils sont sous la responsabilité d'un médecin, ils sont toujours un peu inquiets, ouais, inquiets ou vraiment attentifs de tout faire juste.
-Et puis une sasphème indépendante qui est expérimentée, j'ai l'impression, voilà, une autre était clairement très expérimentée, qu'elle a aussi fait d'abord à l'hôpital.
-Elle peut prendre plus de responsabilités, et puis elle a aussi vu plus d'accouchements qui s'en passent bien.
-Et puis du coup, elle sait qu'il faut encourager les dames, ou il faut l'encourager.
-Bah il faut aussi savoir exactement où il faut arrêter, et puis peut-être faire un changement à l'hôpital où c'est nécessaire, quand sûrement pas la volonté de la mère de continuer.
-Mais en quelque sorte, on se sent presque dans les...
-Je me sentais plus sûr dans les mains de notre sage-femme qui prit la responsabilité, qui était là, que des sages-femmes à l'hôpital qui finalement rouges, ils sont moins là.
-ça c'est aussi quelque chose de différent.
-La sage-femme était là vraiment pendant tout l'accouchement, et les sages-femmes à l'hôpital, bah ils sont toujours retournés, même si on pouvait toujours les appeler, mais ils sont passés.
-c'est pas la même chose de finalement la connaître la première personne avant, de savoir qu'elle est là, même si finalement elle fait pas grand chose jusqu'au dernier moment.
-Voilà, quelques différences...
-Ouais, sans trop aller dans les détails, mais quelque chose qui s'est un peu mal passé à l'hôpital, c'est qu'on a voulu demander de pas faire cette dose d'oxytocine qu'ils recommandent, et puis pour ça c'est le médecin de garde qui est venu, qui nous expliquait toutes les conséquences horribles qui pourraient arriver, et puis qu'il faut finir en bloc, et puis tout, et puis avoir cette discussion...
-Finalement, on avait nos arguments, on avait lu quelque chose par rapport à ça, mais par-dessus les contractions de ma femme, c'était vraiment pas le moment de discuter ça, et puis j'ai un peu ça...
-Voilà, comme c'est les sages-femmes, comme le médecin, ils changent tout le temps à l'hôpital, bah tu peux pas préparer ça quelque part, on va me dire, le sage-femme indépendant, tu sais, voilà, ils ont ses compréhensions, tu peux discuter quelque chose, ce que tu veux, ce que tu veux pas, et puis tu sais que c'est elle qui est là, et puis pas les sages-femmes de garde, ou les rédicutions dans les trucs...
-Voilà.
+
+-->
+
+
+
+
+
 
 
 
