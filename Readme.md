@@ -1,7 +1,6 @@
 # Our parenting blog
 
 
-
 ## English
 
 I wanted to write this blog together with my wife about our experience as parents starting with pregnancy (other blogs will follow). 
